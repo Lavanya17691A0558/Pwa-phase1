@@ -1,0 +1,46 @@
+{
+  "profile":{
+    "image":"image/icon.jpg",
+    "name":"Lavanya",
+    "designation":"Student",
+    "college":"MITS",
+    "Group":"cse",
+    "email":"rlavanya0459@gmail.com"
+  },
+  "career":{
+    "info":"To Achieve My Goals"
+  },
+  "Education":[
+    {
+    "sno":"1",
+    "Qualification":"B.Tech",
+    "NameOfInstitute":"MITS",
+    "YearOfPassing": "2021",
+    "Percentage":"80%"
+  },
+  {
+    "sno":"2",
+    "Qualification":"Intermediate",
+    "NameOfInstitute":"Siddartha Junior College",
+    "YearOfPassing": "2017",
+    "Percentage":"95%"
+  },
+  {
+    "sno":"3",
+    "Qualification":"SSC",
+    "NameOfInstitute":"Gnanodaya English Medium School",
+    "YearOfPassing": "2014",
+    "Percentage":"95%"
+  }
+],
+"Skills":[{
+  "Name":"Web Technologies",
+  "info":["html","css","js"]
+},
+{
+  "Name":"JDBC",
+  "info":["JDBC","FireBase","SQL","SQLLite"]
+}
+]
+
+  }
